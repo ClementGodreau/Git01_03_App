@@ -1,0 +1,7 @@
+S:\Clement\Git03_01_App\Git03_01_App\bin\Debug\Git03_01_App.exe.config
+S:\Clement\Git03_01_App\Git03_01_App\bin\Debug\Git03_01_App.exe
+S:\Clement\Git03_01_App\Git03_01_App\bin\Debug\Git03_01_App.pdb
+S:\Clement\Git03_01_App\Git03_01_App\obj\Debug\Git03_01_App.csprojAssemblyReference.cache
+S:\Clement\Git03_01_App\Git03_01_App\obj\Debug\Git03_01_App.csproj.CoreCompileInputs.cache
+S:\Clement\Git03_01_App\Git03_01_App\obj\Debug\Git03_01_App.exe
+S:\Clement\Git03_01_App\Git03_01_App\obj\Debug\Git03_01_App.pdb
